@@ -1,0 +1,21 @@
+#pragma once
+#include <iostream>
+#include <cmath>
+#include <vector>
+#include <chrono>
+#include <thread>
+#include <cstring>
+#include <atomic>
+#include <deque>
+#include <map>
+#include <unordered_map>
+#include <Windows.h>
+#include <conio.h>
+#include <mutex>
+#include <utility>
+#include <fstream>
+#include <string>
+#include <ctime>
+#include <stack>
+#include <cstdlib>
+using namespace std;
