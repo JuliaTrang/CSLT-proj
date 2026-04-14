@@ -1,0 +1,31 @@
+map2
+1754560652
+29
+1
+550
+15
+T 7 1 2
+E Enemymovement/Map2 140 657.83 160 9 0 0 54
+E Enemymovement/Map2 140 444.218 160 6 0 0 38
+E Enemymovement/Map2 140 402.76 160 6 0 0 36
+E Enemymovement/Map2 140 468.656 160 6 0 0 44
+E Enemymovement/Map2 140 537.496 160 7 0 0 53
+E Enemymovement/Map2 140 491.361 160 7 0 0 51
+E Enemymovement/Map2 140 456.225 160 6 0 0 50
+E Enemymovement/Map2 140 387.257 160 5 0 0 45
+E Enemymovement/Map2 140 299.771 160 4 0 0 37
+E Enemymovement/Map2 140 327.17 160 5 0 0 43
+E Enemymovement/Map2 140 290.551 160 4 0 0 41
+E Enemymovement/Map2 140 230.011 160 3 0 0 35
+E Enemymovement/Map2 140 224.392 160 3 0 0 37
+E Enemymovement/Map2 140 216.275 160 3 0 0 39
+E Enemymovement/Map2 140 216.709 160 3 0 0 43
+E Enemymovement/Map2 140 185.834 160 3 0 0 41
+E Enemymovement/Map2 140 161.206 160 3 0 0 40
+E Enemymovement/Map2 140 157.495 160 2 0 0 45
+E Enemymovement/Map2 140 131.918 160 2 0 0 44
+E Enemymovement/Map2 140 112.137 160 2 0 0 45
+E Enemymovement/Map2 140 89.2584 160 2 0 0 45
+E Enemymovement/Map2 140 60.0548 160 1 0 0 41
+E Enemymovement/Map2 140 34.4871 160 1 0 0 36
+E Enemymovement/Map2 140 21.6265 160 1 0 0 48

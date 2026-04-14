@@ -1,0 +1,53 @@
+map2
+1754119091
+47
+0
+1000
+23
+E Enemymovement/Map2 100 1040 262.798 15 0 0 48
+E Enemymovement/Map2 100 1001.72 160 13 0 0 43
+E Enemymovement/Map2 100 922.413 160 12 0 0 42
+E Enemymovement/Map2 100 868.779 160 11 0 0 39
+E Enemymovement/Map2 100 806.691 160 11 0 0 37
+E Enemymovement/Map2 100 1040 224.929 14 0 0 52
+E Enemymovement/Map2 100 1040 197.862 14 0 0 52
+E Enemymovement/Map2 100 1040 212.386 14 0 0 54
+E Enemymovement/Map2 100 750.521 160 10 0 0 38
+E Enemymovement/Map2 100 667.929 160 9 0 0 36
+E Enemymovement/Map2 100 823.111 160 11 0 0 44
+E Enemymovement/Map2 100 963.869 160 13 0 0 53
+E Enemymovement/Map2 100 877.421 160 11 0 0 51
+E Enemymovement/Map2 100 857.636 160 11 0 0 50
+E Enemymovement/Map2 100 750.515 160 10 0 0 45
+E Enemymovement/Map2 100 598.385 160 8 0 0 37
+E Enemymovement/Map2 100 673.66 160 9 0 0 43
+E Enemymovement/Map2 100 612.798 160 8 0 0 41
+E Enemymovement/Map2 100 513.015 160 7 0 0 35
+E Enemymovement/Map2 100 522.651 160 7 0 0 37
+E Enemymovement/Map2 100 529 160 7 0 0 39
+E Enemymovement/Map2 100 564.357 160 8 0 0 43
+E Enemymovement/Map2 100 516.543 160 7 0 0 41
+E Enemymovement/Map2 100 484.335 160 7 0 0 40
+E Enemymovement/Map2 100 521.13 160 7 0 0 45
+E Enemymovement/Map2 100 487.226 160 7 0 0 44
+E Enemymovement/Map2 100 465.163 160 6 0 0 45
+E Enemymovement/Map2 100 451.486 160 6 0 0 45
+E Enemymovement/Map2 100 362.8 160 5 0 0 41
+E Enemymovement/Map2 100 324.744 160 5 0 0 36
+E Enemymovement/Map2 100 391.201 160 5 0 0 48
+E Enemymovement/Map2 100 343.852 160 5 0 0 43
+E Enemymovement/Map2 100 330.064 160 5 0 0 44
+E Enemymovement/Map2 100 265.768 160 4 0 0 38
+E Enemymovement/Map2 100 252.61 160 4 0 0 39
+E Enemymovement/Map2 100 291.928 160 4 0 0 49
+E Enemymovement/Map2 100 277.938 160 4 0 0 51
+E Enemymovement/Map2 100 173.047 160 3 0 0 35
+E Enemymovement/Map2 100 181.86 160 3 0 0 41
+E Enemymovement/Map2 100 199.565 160 3 0 0 51
+E Enemymovement/Map2 100 173.66 160 3 0 0 46
+E Enemymovement/Map2 100 121.342 160 2 0 0 43
+E Enemymovement/Map2 100 90.3471 160 2 0 0 39
+E Enemymovement/Map2 100 96.9941 160 2 0 0 54
+E Enemymovement/Map2 100 52.5285 160 1 0 0 41
+E Enemymovement/Map2 100 29.4801 160 1 0 0 38
+E Enemymovement/Map2 100 14.1839 160 1 0 0 52

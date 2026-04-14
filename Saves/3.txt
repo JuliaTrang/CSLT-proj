@@ -1,0 +1,45 @@
+map3
+1754119046
+39
+0
+1000
+19
+E Enemymovement/Map3 100 995.403 320 14 0 0 54
+E Enemymovement/Map3 100 1236.96 320 17 0 0 68
+E Enemymovement/Map3 100 1159.48 320 16 0 0 68
+E Enemymovement/Map3 100 880 305.4 12 0 0 52
+E Enemymovement/Map3 100 880 312.953 12 0 0 54
+E Enemymovement/Map3 100 880 313.664 12 0 0 55
+E Enemymovement/Map3 100 880 286.322 12 0 0 55
+E Enemymovement/Map3 100 880 193.107 11 0 0 51
+E Enemymovement/Map3 100 880 243.339 12 0 0 57
+E Enemymovement/Map3 100 861.073 160 10 0 0 51
+E Enemymovement/Map3 100 880 261.465 12 0 0 61
+E Enemymovement/Map3 100 880 285.468 12 0 0 65
+E Enemymovement/Map3 100 785.4 160 9 0 0 52
+E Enemymovement/Map3 100 789.147 160 9 0 0 57
+E Enemymovement/Map3 100 880 200.123 11 0 0 66
+E Enemymovement/Map3 100 825.637 160 10 0 0 61
+E Enemymovement/Map3 100 712.324 160 8 0 0 54
+E Enemymovement/Map3 100 662.643 160 8 0 0 52
+E Enemymovement/Map3 100 752.782 160 9 0 0 63
+E Enemymovement/Map3 100 710.682 160 8 0 0 62
+E Enemymovement/Map3 100 582.238 160 7 0 0 52
+E Enemymovement/Map3 100 544.519 160 6 0 0 51
+E Enemymovement/Map3 100 650.267 160 8 0 0 66
+E Enemymovement/Map3 100 609.227 160 7 0 0 68
+E Enemymovement/Map3 100 575.231 160 7 0 0 65
+E Enemymovement/Map3 100 485.675 160 6 0 0 57
+E Enemymovement/Map3 100 449.739 160 5 0 0 56
+E Enemymovement/Map3 100 408.6 160 5 0 0 61
+E Enemymovement/Map3 100 458.856 160 5 0 0 68
+E Enemymovement/Map3 100 378.901 160 4 0 0 59
+E Enemymovement/Map3 100 386.034 160 4 0 0 62
+E Enemymovement/Map3 100 302.989 160 3 0 0 57
+E Enemymovement/Map3 100 314.394 160 3 0 0 69
+E Enemymovement/Map3 100 267.798 160 3 0 0 65
+E Enemymovement/Map3 100 240 152.533 2 0 0 64
+E Enemymovement/Map3 100 240 99.3502 2 0 0 53
+E Enemymovement/Map3 100 240 83.0925 2 0 0 61
+E Enemymovement/Map3 100 240 44.1842 1 0 0 52
+E Enemymovement/Map3 100 240 21.35 1 0 0 63
